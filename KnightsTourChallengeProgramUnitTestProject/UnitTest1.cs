@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-namespace KnightsTourChallengeUnitTesting
+namespace KnightsTourChallengeProgramUnitTestProject
 {
     [TestClass]
     public class UnitTest1
